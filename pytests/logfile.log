@@ -1,0 +1,158 @@
+2020-09-03 08:37:57,153 : INFO : POm.basepage : entered username
+2020-09-03 08:37:57,254 : INFO : POm.basepage : entered password
+2020-09-03 08:37:57,336 : INFO : POm.basepage : clicked on login
+2020-09-03 08:38:00,358 : INFO : POm.basepage : test case executed ended
+2020-09-03 08:41:44,889 : INFO : POm.basepage : entered username
+2020-09-03 08:41:44,973 : INFO : POm.basepage : entered password
+2020-09-03 08:41:45,057 : INFO : POm.basepage : clicked on login
+2020-09-03 08:41:48,071 : INFO : POm.basepage : test case executed ended
+2020-09-03 08:41:55,691 : INFO : POm.basepage :  username entered successfully
+2020-09-03 08:41:55,691 : INFO : POm.basepage :  username entered successfully
+2020-09-03 08:41:55,812 : INFO : POm.basepage : password entered successfully
+2020-09-03 08:41:55,812 : INFO : POm.basepage : password entered successfully
+2020-09-03 08:41:55,924 : INFO : POm.basepage : clicked on login
+2020-09-03 08:41:55,924 : INFO : POm.basepage : clicked on login
+2020-09-03 08:41:55,925 : WARNING : POm.basepage : credentials are invalid
+2020-09-03 08:41:55,925 : WARNING : POm.basepage : credentials are invalid
+2020-09-03 08:49:31,702 : INFO : POm.basepage : entered username
+2020-09-03 08:49:31,810 : INFO : POm.basepage : entered password
+2020-09-03 08:49:31,897 : INFO : POm.basepage : clicked on login
+2020-09-03 08:49:32,905 : INFO : POm.basepage : test case executed ended
+2020-09-03 08:49:39,428 : INFO : POm.basepage :  username entered successfully
+2020-09-03 08:49:39,428 : INFO : POm.basepage :  username entered successfully
+2020-09-03 08:49:39,533 : INFO : POm.basepage : password entered successfully
+2020-09-03 08:49:39,533 : INFO : POm.basepage : password entered successfully
+2020-09-03 08:49:39,623 : INFO : POm.basepage : clicked on login
+2020-09-03 08:49:39,623 : INFO : POm.basepage : clicked on login
+2020-09-03 08:49:39,623 : WARNING : POm.basepage : credentials are invalid
+2020-09-03 08:49:39,623 : WARNING : POm.basepage : credentials are invalid
+2020-09-03 08:51:03,075 : INFO : POm.basepage : entered username
+2020-09-03 08:51:03,302 : INFO : POm.basepage : entered password
+2020-09-03 08:51:03,485 : INFO : POm.basepage : clicked on login
+2020-09-03 08:51:07,541 : INFO : POm.basepage : test case executed ended
+2020-09-03 08:51:15,934 : INFO : POm.basepage :  username entered successfully
+2020-09-03 08:51:15,934 : INFO : POm.basepage :  username entered successfully
+2020-09-03 08:51:16,163 : INFO : POm.basepage : password entered successfully
+2020-09-03 08:51:16,163 : INFO : POm.basepage : password entered successfully
+2020-09-03 08:51:16,314 : INFO : POm.basepage : clicked on login
+2020-09-03 08:51:16,314 : INFO : POm.basepage : clicked on login
+2020-09-04 07:56:21,125 : INFO : POm.basepage : entered username
+2020-09-04 07:56:21,340 : INFO : POm.basepage : entered password
+2020-09-04 07:56:21,496 : INFO : POm.basepage : clicked on login
+2020-09-04 07:56:24,408 : INFO : POm.basepage : test case executed ended
+2020-09-04 07:56:31,988 : INFO : POm.basepage :  username entered successfully
+2020-09-04 07:56:31,988 : INFO : POm.basepage :  username entered successfully
+2020-09-04 07:56:32,233 : INFO : POm.basepage : password entered successfully
+2020-09-04 07:56:32,233 : INFO : POm.basepage : password entered successfully
+2020-09-04 07:56:32,407 : INFO : POm.basepage : clicked on login
+2020-09-04 07:56:32,407 : INFO : POm.basepage : clicked on login
+2020-09-04 08:00:09,166 : INFO : POm.basepage : entered username
+2020-09-04 08:00:09,363 : INFO : POm.basepage : entered password
+2020-09-04 08:00:12,311 : INFO : POm.basepage : clicked on login
+2020-09-04 08:00:12,332 : INFO : POm.basepage : test case executed ended
+2020-09-04 08:00:32,950 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:00:32,950 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:00:33,102 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:00:33,102 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:00:33,487 : INFO : POm.basepage : clicked on login
+2020-09-04 08:00:33,487 : INFO : POm.basepage : clicked on login
+2020-09-04 08:03:16,368 : INFO : POm.basepage : entered username
+2020-09-04 08:03:16,435 : INFO : POm.basepage : entered password
+2020-09-04 08:03:18,901 : INFO : POm.basepage : clicked on login
+2020-09-04 08:03:18,921 : INFO : POm.basepage : test case executed ended
+2020-09-04 08:03:39,286 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:03:39,286 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:03:39,344 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:03:39,344 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:03:40,047 : INFO : POm.basepage : clicked on login
+2020-09-04 08:03:40,047 : INFO : POm.basepage : clicked on login
+2020-09-04 08:05:10,460 : INFO : POm.basepage : entered username
+2020-09-04 08:05:10,671 : INFO : POm.basepage : entered password
+2020-09-04 08:05:10,845 : INFO : POm.basepage : clicked on login
+2020-09-04 08:05:12,875 : INFO : POm.basepage : test case executed ended
+2020-09-04 08:05:20,102 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:05:20,102 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:05:20,317 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:05:20,317 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:05:20,500 : INFO : POm.basepage : clicked on login
+2020-09-04 08:05:20,500 : INFO : POm.basepage : clicked on login
+2020-09-04 08:11:02,076 : INFO : POm.basepage : entered username
+2020-09-04 08:11:02,290 : INFO : POm.basepage : entered password
+2020-09-04 08:11:04,366 : INFO : POm.basepage : clicked on login
+2020-09-04 08:11:04,402 : INFO : POm.basepage : test case executed ended
+2020-09-04 08:11:23,594 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:11:23,594 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:11:23,704 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:11:23,704 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:11:24,488 : INFO : POm.basepage : clicked on login
+2020-09-04 08:11:24,488 : INFO : POm.basepage : clicked on login
+2020-09-04 08:24:09,189 : INFO : POm.basepage : entered username
+2020-09-04 08:24:09,285 : INFO : POm.basepage : entered password
+2020-09-04 08:24:11,741 : INFO : POm.basepage : clicked on login
+2020-09-04 08:24:11,765 : INFO : POm.basepage : test case executed ended
+2020-09-04 08:24:31,884 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:24:31,884 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:24:32,061 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:24:32,061 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:24:32,501 : INFO : POm.basepage : clicked on login
+2020-09-04 08:24:32,501 : INFO : POm.basepage : clicked on login
+2020-09-04 08:31:48,378 : INFO : POm.basepage : entered username
+2020-09-04 08:31:48,546 : INFO : POm.basepage : entered password
+2020-09-04 08:31:48,701 : INFO : POm.basepage : clicked on login
+2020-09-04 08:31:52,631 : INFO : POm.basepage : test case executed ended
+2020-09-04 08:32:01,800 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:32:01,800 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:32:02,042 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:32:02,042 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:32:02,195 : INFO : POm.basepage : clicked on login
+2020-09-04 08:32:02,195 : INFO : POm.basepage : clicked on login
+2020-09-04 08:38:16,470 : INFO : POm.basepage : entered username
+2020-09-04 08:38:16,642 : INFO : POm.basepage : entered password
+2020-09-04 08:38:16,808 : INFO : POm.basepage : clicked on login
+2020-09-04 08:38:20,396 : INFO : POm.basepage : test case executed ended
+2020-09-04 08:38:27,842 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:38:27,842 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:38:28,057 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:38:28,057 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:38:28,217 : INFO : POm.basepage : clicked on login
+2020-09-04 08:38:28,217 : INFO : POm.basepage : clicked on login
+2020-09-04 08:40:25,886 : INFO : POm.basepage : entered username
+2020-09-04 08:40:26,074 : INFO : POm.basepage : entered password
+2020-09-04 08:40:26,237 : INFO : POm.basepage : clicked on login
+2020-09-04 08:40:30,257 : INFO : POm.basepage : test case executed ended
+2020-09-04 08:40:38,260 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:40:38,260 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:40:38,497 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:40:38,497 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:40:38,693 : INFO : POm.basepage : clicked on login
+2020-09-04 08:40:38,693 : INFO : POm.basepage : clicked on login
+2020-09-04 08:42:08,319 : INFO : POm.basepage : entered username
+2020-09-04 08:42:08,507 : INFO : POm.basepage : entered password
+2020-09-04 08:42:08,662 : INFO : POm.basepage : clicked on login
+2020-09-04 08:42:12,245 : INFO : POm.basepage : test case executed ended
+2020-09-04 08:42:19,941 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:42:19,941 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:42:20,128 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:42:20,128 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:42:20,273 : INFO : POm.basepage : clicked on login
+2020-09-04 08:42:20,273 : INFO : POm.basepage : clicked on login
+2020-09-04 08:43:08,501 : INFO : POm.basepage : entered username
+2020-09-04 08:43:08,713 : INFO : POm.basepage : entered password
+2020-09-04 08:43:08,890 : INFO : POm.basepage : clicked on login
+2020-09-04 08:43:11,982 : INFO : POm.basepage : test case executed ended
+2020-09-04 08:43:19,835 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:43:19,835 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:43:20,018 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:43:20,018 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:43:20,166 : INFO : POm.basepage : clicked on login
+2020-09-04 08:43:20,166 : INFO : POm.basepage : clicked on login
+2020-09-04 08:44:09,104 : INFO : POm.basepage : entered username
+2020-09-04 08:44:09,311 : INFO : POm.basepage : entered password
+2020-09-04 08:44:09,483 : INFO : POm.basepage : clicked on login
+2020-09-04 08:44:12,952 : INFO : POm.basepage : test case executed ended
+2020-09-04 08:44:20,423 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:44:20,423 : INFO : POm.basepage :  username entered successfully
+2020-09-04 08:44:20,643 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:44:20,643 : INFO : POm.basepage : password entered successfully
+2020-09-04 08:44:20,794 : INFO : POm.basepage : clicked on login
+2020-09-04 08:44:20,794 : INFO : POm.basepage : clicked on login
